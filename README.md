@@ -24,6 +24,7 @@ I enjoy building responsive, accessible, and user-friendly web applications.
 ## 🔗 Featured Projects
 
 ### 1. DentalCare Dashboard
+- **Live Demo:** [View Live Project](https://ssheikh17.github.io/DentalCare-Dashboard/)  
 - **Code:** [GitHub Repo](https://github.com/ssheikh17/DentalCare-Dashboard)  
 A responsive dashboard project showcasing **UI design, interactive features, and front-end skills**.
 
