@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I’m Safa 👋
 
-<!--
-**ssheikh17/ssheikh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Biomedical Sciences graduate **pursuing a career as a Front-End Developer**. 
+I enjoy building responsive, accessible, and user-friendly web applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Learning
+- JavaScript & DOM manipulation  
+- Responsive web design  
+- Git & GitHub collaboration  
+- UX / UI design fundamentals  
+
+---
+
+## 🛠️ Tech Stack
+- HTML5 / CSS3  
+- JavaScript  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🔗 Featured Projects
+
+### 1. DentalCare Dashboard
+- **Code:** [GitHub Repo](https://github.com/ssheikh17/DentalCare-Dashboard)  
+- **Live Demo:** [View Project](https://your-live-demo-link.com)  
+A responsive dashboard project showcasing **UI design, interactive features, and front-end skills**.
+
+### 2. Portfolio Website
+- **Code:** [GitHub Repo](https://github.com/ssheikh17/safa-sheikh-portfolio)  
+- **Live Demo:** [View Site](https://ssheikh17.github.io/safa-sheikh-portfolio/)  
+My personal portfolio website highlighting projects, skills, and my journey toward becoming a **Front-End Developer**.
+
+---
+
+## 📫 Let’s Connect
+- Portfolio: [Live Site](https://ssheikh17.github.io/safa-sheikh-portfolio/)  
+- LinkedIn: (https://www.linkedin.com/in/safa-sheikh-325a71220)  
+- Email: (ssheikh17@icloud.com)
