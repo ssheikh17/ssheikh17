@@ -25,13 +25,14 @@ I enjoy building responsive, accessible, and user-friendly web applications.
 
 ### 1. DentalCare Dashboard
 - **Code:** [GitHub Repo](https://github.com/ssheikh17/DentalCare-Dashboard)  
-- **Live Demo:** [View Project](https://your-live-demo-link.com)  
 A responsive dashboard project showcasing **UI design, interactive features, and front-end skills**.
 
+
 ### 2. Portfolio Website
-- **Code:** [GitHub Repo](https://github.com/ssheikh17/safa-sheikh-portfolio)  
 - **Live Demo:** [View Site](https://ssheikh17.github.io/safa-sheikh-portfolio/)  
+- **Code:** [GitHub Repo](https://github.com/ssheikh17/safa-sheikh-portfolio)  
 My personal portfolio website highlighting projects, skills, and my journey toward becoming a **Front-End Developer**.
+
 
 ---
 
