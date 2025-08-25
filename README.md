@@ -35,6 +35,13 @@ A responsive dashboard project showcasing **UI design, interactive features, and
 My personal portfolio website highlighting projects, skills, and my journey toward becoming a **Front-End Developer**.
 
 
+### 3. Currency Converter
+
+   - **Live Demo:** [View Live Project](https://ssheikh17.github.io/currency-converter/currency.html)  
+   - **Code:** [GitHub Repo](https://github.com/ssheikh17/currency-converter)  
+   A fully responsive Currency Converter built with HTML, CSS, and JavaScript, integrating real-time exchange rates from the Frankfurter API. Demonstrates building interactive, user-friendly interfaces with dynamic data.
+
+
 ---
 
 ## 📫 Let’s Connect
